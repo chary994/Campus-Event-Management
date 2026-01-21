@@ -1,0 +1,14 @@
+.auth-container {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.auth-container a {
+  transition: color 0.3s ease;
+}
+
+.auth-container a:hover {
+  color: #1976d2 !important;
+}
